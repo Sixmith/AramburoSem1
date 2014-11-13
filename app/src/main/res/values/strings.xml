@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KUSTM</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="buttonEnter">ENTER</string>
+    <string name="title">Know UST More!!!</string>
+    <string name="titleInstruct">   Hit ENTER to Begin</string>
+    <string name="sebtitle">Pick a Topic</string>
+    <string name="Top1">Overheard UST</string>
+    <string name="Top2">Crimes around UST</string>
+    <string name="Top3">Freshmen Tips</string>
+    <string name="Top4">Food Corner</string>
+    <string name="Title2">Know UST More!!!</string>
+    <string name="sebtitle2">Select an Article</string>
+    <string name="btnArticle1">Awkward Earthquake Drill</string>
+    <string name="btnArticle2">The Story of Ate Yema.</string>
+    <string name="btnArticle3">Ang ganda ng view </string>
+    <string name="btnArticle4">Mga palaboy</string>
+    <string name="articleTitle1">Awkward Earthquake Drill</string>
+    <string name="article1">Within that week, sunud-sunod na earthquake drill ang ginawa sa UST. Our P.E. is swimming. We are still in the pool ng biglang nagsignal ng earthquake drill. Akala namin di kami kasama kasi syempre naswimsuit at swimming trunks kami! Pero we were wrong. A few moments later, pinaahon kami sa swimming pool at with only our towels to cover ourselves, pinalabas kami sa field! It was so embarrasing and at the same time so funny! :)) Lahat nakatingin samin, yung iba pa nga natatawa na lang tapos kami nahihiya pero anong magagawa namin? We\'re just so obedient, we have to follow the rules :))) I will never EVER forget this. I don\'t know if somebody already shared this scene here but I\'m just sharing anyway ahahaha  </string>
+    <string name="btnArticle5">Theft inside a car</string>
+    <string name="btnArticle6">Purse Snatching</string>
+    <string name="btnArticle7">Have your flood gear ready</string>
+    <string name="btnArticle8">Eat around the near vicinity of the campus</string>
+    <string name="btnArticle9">Be street smart</string>
+    <string name="btnArticle10">Attend your classes and know the grading system</string>
+    <string name="btnArticle11">Mang Tootz Food House</string>
+    <string name="btnArticle12">Sisig Express</string>
+    <string name="btnArticle13">Dimsum Treats</string>
+    <string name="btnArticle14">Lovelite</string>
+    <string name="articleTitle2">The Story of Ate Yema</string>
+    <string name="articleTitle3">Ang ganda ng view </string>
+    <string name="articleTitle4">Mga palaboy</string>
+    <string name="articleTitle5">Theft inside a car</string>
+    <string name="articleTitle6">Purse Snatching</string>
+    <string name="articleTitle7">Have your flood gear ready</string>
+    <string name="articleTitle8">Eat around the near vicinity of the campus</string>
+    <string name="articleTitle9">Be street smart</string>
+    <string name="articleTitle10">Attend your classes and know the grading system</string>
+    <string name="articleTitle11">Mang Tootz Food House</string>
+    <string name="articleTitle12">Sisig Express</string>
+    <string name="articleTitle13">Dimsum Treats</string>
+    <string name="articleTitle14">Lovelite</string>
+    <string name="article2">Popularly and affectionately known as Ate Yema, Kathryn Kaye Carpio is a UST Nursing graduate, a registered nurse, a graduate of an MA in Nursing, and is currently taking up an MBA. An intelligent student and a pride of UST, she got 9th place in the 2008 Nursing Board Exam. It is said that she was able to accomplish those feats while helping her mother sell her homemade sweets (like pastillas and polvoron) at school. It is not surprising then that she was able to capture the interest of students and at the same time see her as an inspiration.</string><string name="article3">Pauwi na kami ng dalawa kong kaibigan sa dorm nun, naglalakad kami papunta sa P.noval gate mga 9 pm na ata yun tapos may nakita akong nag vo-volleyball sa seminary gym, napansin ko na gwapo silang lahat kaya kinausap ko yung kaibigan ko
+
+ako: Shet ang ganda ng view
+
+sila: wooow oo nga
+
+ako: tingnan mo yung nasa left shet
+
+sila: huh? Bakit anong meron dun?
+
+ako: gago yung nag vo-volleyball
+
+dun ko lang nalaman na sa mga CHRISTMAS LIGHTS pala sila nakatingin sa loob ng seminaryo ng ust. Medyo napahiya ako dun shet HAHAHAHAHAHAHAHA
+</string><string name="article4">Mga palaboy
+Diba usually nakakainis yung mga palaboy na bata na bigla bigla na lang na kinukuha or hinahawakan yung mga pagkain natin. Kanina, habang kumakain ako sa dapitan, may mga batang hinigi yung food ko. Since wala akong gana kumain, binigay ko yung food ko.Mej marami pa sya. Hati-hati sila nung dabarkads nya. Alam mo yung feeling na parang sige bigay ko na lang to kasi kawawa naman. Pero not expecting in return kasi get, yung bata bumalik pa sa akin (matapos tumakbo palayo) tapos sabi, “Thank you ate!”.
+Sobrang nakakataba ng puso na may mga batang palaboy parin na na-aappreciate yung mga little things at may sense of gratitude. As in nakita ko yung tuwa sa mata nya nung sinabi niya yun. Sobrang sarap sa feeling. Hehehe. Buti pa yung mga bata na-appreciate effort ko. Eh mga kaklase ko? Mga walang malasakit. Hehehe.
+OopsHugotSiTeh
+Batch 2012
+College of Science
+</string>
+    <string name="article5">There have been incident where valuables left inside a car are being stolen. To prevent this one should make sure that their car is parked in a place where theft can’t be done. Also valuables should not be left inside a car for the obvious reason. You can’t always trust guards, especially in the UST car park. There are times where some places are not monitored.</string>
+    <string name="article6">One of the most usual crimes happening around UST is Purse Snatching. This usually happens in a pedestrian lane where the snatcher, riding a motorcycle, waits for the perfect opportunity to speed up and snatch valuables. In terms of this, students should keep their valuables close to them when crossing a pedestrian lane. In some instances students may end up in an incident where pertaining to snatching, gets dragged of their feet while holding the valuables. So keep that in mind.</string>
+    <string name="article7">It’s rainy season, and as much as new friends, professors and thick reading materials would want to greet your welcome, the flood might be the first UST experience you will have. Bring an umbrella, a jacket, a pair of rubber slippers (or boots if you can handle carrying it around), extra socks, and a little towel if you feel like the skies are turning grey or if the pungent smell of rain is already on the edge of your nose. </string>
+    <string name="article8">If there’s one thing freshmen need to know, it’s hard to keep a diet while studying in UST. Set the fast food chains aside for after-exam victory meals (Yellow Cab 18-inchers or every “Barkada Meal” package is), there are a lot of places your stomach needs to check out. Try the palabok over at Lopez Canteen in P.Noval, or try three kinds of home-cooked sisig in Dapitan’s Hapag Kainan. The canteen near the oval and the gate exiting P. Noval sells the best cheap cheeseburgers around, don’t forget to ask for extra cheese/mayo sauce. </string>
+    <string name="article9">UST is located in the heart of Manila and just 5 minutes away from Quiapo and Divisoria, and human urban hazards (snatchers, pickpockets) are everywhere. Be alert when commuting and always be cautious with your belongings. Make a mental imprint that no material thing can equal your life, whether it is an iPad or a new laptop. So don’t hesitate to “give-up” these “takaw-nakaw” items when held against your will. </string>
+    <string name="article10">No matter how much of a brainiac you are, you’ll get a failing grade of (5) if your attendance is as inconsistent as a push-out bingo card. You can only get a Dean’s Lister-worthy grade of 1 to 1.75 if you put an effort to pass your exams and actually be physically present for the classes. The usual 2 to 2.75 can be achieved by passing tests or having 1 to 2 absences. The “pasang awa” mark of 3 is given to those who deserve to get a passing grade despite all the shenanigans made. </string>
+    <string name="article11">So what’s the most iconic food spot in the area? Ask any Thomasian and you’ll probably get the same answer: Mang Tootz! The legendary eatery is frequented by students, alumni, and food trippers who can’t help but come back to its good food and warm, efficient service. Try the all-time favorites such as Inihaw na Liempo, Sisig, Breaded Chicken, and Chicken Kebab, all ensured to be in excellent quality by Mang Tootz himself.
+Afterwards, make sure to end your hearty meal with their signature Banana-rhuma (sells at P10 for 3 pieces), which are caramelized mini turons sprinkled with sesame seeds, milk powder and cinnamon. Yum!
+</string><string name="article12">When visiting Sisig Express, it doesn’t matter if you’re really hungry or not. You’ll always find yourself getting excited over the sound of chicken/pork sisig sizzling in platito-sized charcoal plates. Their Adobo Flakes is a must-try too!
+</string><string name="article13">As the saying goes, “ang Tomasinong nagigipit, sa Siomai Rice kumakapit.” Countless stalls may have mushroomed around the university, but Dimsum Treats’ siomais come in larger (and yummier) proportions that ordering extra rice becomes inevitable. Choose from their Special Siomai, Japanese, Chinese Chicken, Quail Egg, Sharksfin, and Mushroom varieties and pair ‘em with Yang Chow fried rice for a definitely sulit meal.
+Tip: Unless you’re fond of extreme spiciness to the point where your lips start swelling and you’re running to get a gallon of milk, NEVER ever say yes when they offer chili sauce on your meal. Seriously, they must have been using California Reapers for that.
+</string><string name="article14">I could think of only one reason why the place is called Lovelite: they’ve got food you’ll love at a very lite price. This eatery is famous among on-the-go Thomasians for their cheap footlong, burger steak, and bacon combo rice meals, usually served with a heart-shaped sunny side-up and generous, generous helpings of gravy.
+Rushing to get copies of your prof’s new set of readings? Lovelite offers photocopying, bookbinding, and ring-binding services too. Less hassle, yay!
+</string>
+
+
+</resources>
